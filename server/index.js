@@ -19,4 +19,4 @@ app.get('/', (req,res) => {
 
 
 // dann werfen wir den Server mal an
-app.listen(PORT, () => console.log('Server runs on Port:', PORT))
+app.listen(PORT, () => console.log('serving Ure stuff at..', PORT))
