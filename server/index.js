@@ -13,7 +13,7 @@ app.use(cors())
 
 // hier ist genung Platz für alle eure Routen
 app.get('/', (req,res) => {
-    res.status(200).send('Alles OKAY')
+    res.status(200).send('all runnin fine and stable..')
 })
 
 
